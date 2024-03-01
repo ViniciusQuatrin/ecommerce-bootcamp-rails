@@ -1,6 +1,3 @@
-en:
-  hello: "Hello world"
-
 pt-BR:
   activerecord:
     errors:
